@@ -1,3 +1,2 @@
 # IAM
-Introducción al aprendizaje de maquina-UN
-Git para subir trabajos de la asignatura 
+Git to upload material from class Introduction to Machine learning(introducción al aprendizaje de maquina)
